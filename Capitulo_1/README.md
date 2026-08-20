@@ -15,7 +15,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual
 
-![diagrama1](../images/Lab1/Diagrama1.png)
+![diagrama1](images/lab1/Diagrama1.png)
 
 ### Relación con IA agéntica
 
